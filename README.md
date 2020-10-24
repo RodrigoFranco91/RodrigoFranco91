@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 # Hello my friends! 👋
 
-🧑 My name is Rodrigo Franco de Lima.
+🧑 My name is Rodrigo Franco de Lima;
 
-🇧🇷 I'm from Pouso Alegre - MG. 
+🇧🇷 I'm from Pouso Alegre - MG;
 
-💻I'm a Web Developer and currently **I'm looking for a new job.** 
+💻I'm a Web Developer and currently **I'm looking for a new job**; 
 
 📜 I have a degree in Information Systems and I am doing graduate course at Mobile Development and Cloud Computing. 
 
