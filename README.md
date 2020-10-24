@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 # 
-📫 Reach me out 👇🏼
+📫 How to reach me 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rodrigofrancodelima/)](https://br.linkedin.com/in/rodrigofrancodelima/) 
 [![Site Badge](https://img.shields.io/badge/-Site-FF0000?style=flat-square&logoColor=white&link=https://www.rodrigofrancodelima.com.br)](https://www.rodrigofrancodelima.com.br)
