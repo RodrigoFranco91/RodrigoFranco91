@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋
 
--My name is Rodrigo Franco de Lima 🧑
--I'm from Pouso Alegre - MG 🇧🇷
--I'm a Web Developer 💻
--Nowadays I'm looking for a new job 🔍
+- My name is Rodrigo Franco de Lima 🧑
+- I'm from Pouso Alegre - MG 🇧🇷
+- I'm a Web Developer 💻
+- Nowadays I'm looking for a new job 🔍
 
 Reach me out 👇🏼
 
