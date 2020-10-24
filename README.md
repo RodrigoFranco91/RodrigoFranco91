@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 💻I'm a Web Developer and currently I'm looking for a new job 🔍
 
+# 
 Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rodrigofrancodelima/)](https://br.linkedin.com/in/rodrigofrancodelima/) 
