@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋
+# Hi there! My name is Rodrigo Franco de Lima👋
 
-🇧🇷 My name is Rodrigo Franco de Lima and I'm from Pouso Alegre - MG. 
+🇧🇷I'm from Pouso Alegre - MG. 
 
 💻I'm a Web Developer and currently **I'm looking for a new job.** 
 
