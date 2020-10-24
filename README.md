@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 💻I'm a Web Developer and currently I'm looking for a new job 🔍
 
-I have a degree in Information Systems 📜
+🏫 I have a degree in Information Systems and I am doing graduate course at Mobile Development and Cloud Computing. 📜
 
 
 
