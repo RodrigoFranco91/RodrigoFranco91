@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋
 
-My name is Rodrigo Franco de Lima 🧑 
+My name is Rodrigo Franco de Lima 🧑
+
 I'm from Pouso Alegre - MG 🇧🇷
+
 I'm a Web Developer 💻
+
 Nowadays I'm looking for a new job 🔍
 
 Reach me out 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigofrancodelima/)]https://www.linkedin.com/in/rodrigofrancodelima/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rodrigofrancodelima/)]
