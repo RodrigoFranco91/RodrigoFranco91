@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 # 
-Reach me out 👇🏼
+Reach me out 👉 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rodrigofrancodelima/)](https://br.linkedin.com/in/rodrigofrancodelima/) 
 [![MySite Badge](https://img.shields.io/badge/-HomePage-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=https://www.rodrigofrancodelima.com.br)](https://www.rodrigofrancodelima.com.br)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigofrancodelima@gmail.com)](mailto:rodrigofrancodelima@gmail.com)
