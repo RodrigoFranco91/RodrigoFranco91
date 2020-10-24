@@ -28,4 +28,4 @@ Nowadays I'm looking for a new job 🔍
 Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rodrigofrancodelima/)](https://br.linkedin.com/in/rodrigofrancodelima/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigofrancodelima@gmail.com)](mailto:rodrigofrancodelima@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigofrancodelima@gmail.com)](mailto:rodrigofrancodelima@gmail.com)
