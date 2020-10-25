@@ -25,14 +25,16 @@ Here are some ideas to get you started:
 
 📜 I have a degree in Information Systems and I am doing graduate course at Mobile Development and Cloud Computing. 
 
-# Skills 
+# 💪 Skills:
 - Programming language: Java, C#, JavaScript.
 - Markup/Style language: HTML5, CSS3.
 - Database (DBMS): MySql, PostgreSQL.
 - Frameworks: Spring (Boot, MVC, Data JPA), Hibernate, Bootstrap.
 - CASE Tools: Visual Paradigm, Eclipse, IntelliJ, Postman, GIT.
 
-
+# 🌱 I’m currently learning:
+- JavaScript with Node.js (Back-end);
+- React (Front-end).
 
 # 
 📫 How to reach me 👇🏼
