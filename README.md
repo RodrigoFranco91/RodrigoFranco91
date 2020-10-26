@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 
 📜 I have a degree in Information Systems and I am doing graduate course at Mobile Development and Cloud Computing. 
 
+📫 How to reach me 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rodrigofrancodelima/)](https://br.linkedin.com/in/rodrigofrancodelima/) 
+[![Site Badge](https://img.shields.io/badge/-Site-FF0000?style=flat-square&logoColor=white&link=https://www.rodrigofrancodelima.com.br)](https://www.rodrigofrancodelima.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigofrancodelima@gmail.com)](mailto:rodrigofrancodelima@gmail.com)
+
 # 💪 Skills:
 - Programming language: Java, C#, JavaScript.
 - Markup/Style language: HTML5, CSS3.
@@ -37,8 +43,4 @@ Here are some ideas to get you started:
 - React (Front-end).
 
 # 
-📫 How to reach me 👇🏼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rodrigofrancodelima/)](https://br.linkedin.com/in/rodrigofrancodelima/) 
-[![Site Badge](https://img.shields.io/badge/-Site-FF0000?style=flat-square&logoColor=white&link=https://www.rodrigofrancodelima.com.br)](https://www.rodrigofrancodelima.com.br)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigofrancodelima@gmail.com)](mailto:rodrigofrancodelima@gmail.com)
