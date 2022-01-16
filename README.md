@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🇧🇷 I'm from Pouso Alegre - MG;
 
-💻 I'm a Web Developer and currently **I'm working at [Zup](https://www.zup.com.br/)**; 
+💻 I'm a Web Developer and currently **I'm working at [TQI](https://www.tqi.com.br/)**; 
 
 📜 I have a degree in Information Systems and a graduate course at Mobile Development and Cloud Computing. 
 
