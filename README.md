@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rodrigofrancodelima/)](https://br.linkedin.com/in/rodrigofrancodelima/) 
 [![Site Badge](https://img.shields.io/badge/-Site-FF0000?style=flat-square&logoColor=white&link=https://www.rodrigofrancodelima.com.br)](https://www.rodrigofrancodelima.com.br)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigofrancodelima@gmail.com)](mailto:rodrigofrancodelima@gmail.com)
 
 # 💪 Skills:
-- Programming language: Java, C#, JavaScript.
+- Programming language: Java, Kotlin.
 - Markup/Style language: HTML5, CSS3.
 - Database (DBMS): MySql, PostgreSQL.
-- Frameworks: Spring (Boot, MVC, Data JPA), Hibernate, Bootstrap.
-- CASE Tools: Visual Paradigm, Eclipse, IntelliJ, Postman, GIT.
+- Frameworks: Spring (Boot, Web MVC, Data, Feign, Security, Thymeleaf, Actuator), Micronaut, gRPC, Hibernate.
+- Streaming Platform: Apache Kafka.
+- CASE Tools/Others: Visual Paradigm, Eclipse, IntelliJ, Postman, BloomRPC, JUnit, Swagger, Docker.
 
 # 🌱 I’m currently learning:
 - JavaScript with Node.js (Back-end);
