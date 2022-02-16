@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🧑 My name is Rodrigo Franco de Lima;
 
-🇧🇷 I'm from Pouso Alegre - MG;
+🇧🇷 I'm from Brazil, Pouso Alegre - MG;
 
 💻 I'm a Web Developer and currently **I'm working at [TQI](https://www.tqi.com.br/)**; 
 
