@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 - CASE Tools/Others: Visual Paradigm, Eclipse, IntelliJ, Postman, BloomRPC, JUnit, Swagger, Docker.
 
 # 🌱 I’m currently learning:
-- JavaScript with Node.js (Back-end);
-- React (Front-end).
+- JavaScript and React.
 
 # 
 
