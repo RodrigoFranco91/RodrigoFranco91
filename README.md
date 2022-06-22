@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🇧🇷 I'm from Brazil, Pouso Alegre - MG;
 
-💻 I'm a Web Developer and currently **I'm working at [TQI](https://www.tqi.com.br/)**; 
+💻 I'm a Web Developer and currently **I'm working at [](https://)**; 
 
 📜 I have a degree in Information Systems and a graduate course at Mobile Development and Cloud Computing. 
 
