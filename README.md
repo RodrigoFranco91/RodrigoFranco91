@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🇧🇷 I'm from Brazil, Pouso Alegre - MG;
 
-💻 I'm a Web Developer and currently **I'm working at [SysMap Solutions](https://https://sysmap.com.br/)**; 
+💻 I'm a Web Developer and currently **I'm working at [SysMap Solutions](https://sysmap.com.br/)**; 
 
 📜 I have a degree in Information Systems and a graduate course at Mobile Development and Cloud Computing. 
 
